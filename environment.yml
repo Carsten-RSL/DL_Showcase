@@ -1,0 +1,17 @@
+name: showcase
+channels:
+  - anaconda
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - cudatoolkit=9.0
+  - tensorflow
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+  - pip
